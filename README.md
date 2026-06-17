@@ -10,7 +10,8 @@
   <img src="https://img.shields.io/badge/-Jetpack_Compose-1e1e2e?style=for-the-badge&logo=jetpackcompose&logoColor=CDD6F4"/>
   <img src="https://img.shields.io/badge/-Android_7.1+-1e1e2e?style=for-the-badge&logo=android&logoColor=A6E3A1"/>
 </div>
----
+<br/>
+<hr/>
 <pre><code class="language-javascript">const GitAtlas = {
     ui:       ["Liquid Glass", "Material X", "Heavy Blurs", "Compose Animations"],
     features: ["Smart Recommendations", "In-App Code Viewer", "Direct APK/Repo Downloads"],
@@ -18,7 +19,8 @@
     data:     ["Offline Bookmarks", "Encrypted SharedPreferences", "Retrofit2"],
     status:   "Source Visible (All Rights Reserved)",
 };</code></pre>
----
+<hr/>
+<br/>
 ## ⚡ Installation
 GitAtlas is distributed as a compiled Android APK.
 1. Head over to the **[Releases](../../releases/latest)** tab.
