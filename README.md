@@ -21,11 +21,7 @@
 };</code></pre>
 <hr/>
 <br/>
-## ⚡ Installation
-GitAtlas is distributed as a compiled Android APK.
-1. Head over to the **[Releases](../../releases/latest)** tab.
-2. Download the latest APK file.
-3. Allow "Install unknown apps" if prompted by Android and launch the app.
+
 ## 📱 Interface
 <div align="center">
   <img src="photos/screenshot1.jpg" width="300" alt="Trending Feed" />
