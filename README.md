@@ -34,9 +34,17 @@ GitAtlas is distributed as a compiled Android APK.
 
 ## 📱 Interface
 
-| Trending | Search | Developers | Downloads | Repository |
-| :--- | :--- | :--- | :--- | :--- |
-| <img src="photos/screenshot1.jpg" width="500"/> | <img src="photos/screenshot2.jpg" width="500"/> | <img src="photos/screenshot3.jpg" width="500"/> | <img src="photos/screenshot4.jpg" width="500"/> | <img src="photos/screenshot5.jpg" width="500"/> |
+<div align="center">
+  <img src="photos/screenshot1.jpg" width="800" alt="Trending Feed" />
+  <br/><br/>
+  <img src="photos/screenshot2.jpg" width="800" alt="Search" />
+  <br/><br/>
+  <img src="photos/screenshot3.jpg" width="800" alt="Developers" />
+  <br/><br/>
+  <img src="photos/screenshot4.jpg" width="800" alt="Downloads" />
+  <br/><br/>
+  <img src="photos/screenshot5.jpg" width="800" alt="Repository Viewer" />
+</div>
 
 ## 🧠 The Engine
 
@@ -55,6 +63,7 @@ You are **strictly prohibited** from copying, modifying, distributing, compiling
 If you wish to fork, modify, or utilize elements of this repository, you must contact me directly to request permission first.
 
 <div align="center">
+  <br/>
   <p>Developed and maintained by <b>TenSei</b></p>
   <a href="https://t.me/getthefckoutofheree"><img src="https://img.shields.io/badge/-Telegram-1e1e2e?style=for-the-badge&logo=telegram&logoColor=89DCEB"/></a>
   <a href="https://github.com/Koustubh12345"><img src="https://img.shields.io/badge/-GitHub-1e1e2e?style=for-the-badge&logo=github&logoColor=CDD6F4"/></a>
