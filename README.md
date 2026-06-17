@@ -26,31 +26,21 @@
 
 ## ⚡ Installation
 
-You can either download the pre-compiled application or build it from the source code.
+GitAtlas is distributed as a compiled Android APK.
 
-**Option 1: Download APK (Recommended)**
 1. Head over to the **[Releases](../../releases/latest)** tab.
 2. Download the latest APK file.
 3. Allow "Install unknown apps" if prompted by Android and launch the app.
 
-**Option 2: Build from Source**
-1. Clone this repository:
-   git clone https://github.com/Koustubh12345/GitAtlas.git
-2. Open the project in Android Studio.
-3. Sync the Gradle files and build the project.
-4. Run on an emulator or physical device.
-
 ## 📱 Interface
 
 <div align="center">
-  <img src="docs/screenshot1.jpg" width="19%" />
-  <img src="docs/screenshot2.jpg" width="19%" />
-  <img src="docs/screenshot3.jpg" width="19%" />
-  <img src="docs/screenshot4.jpg" width="19%" />
-  <img src="docs/screenshot5.jpg" width="19%" />
+  <img src="photos/screenshot1.jpg" width="19%" />
+  <img src="photos/screenshot2.jpg" width="19%" />
+  <img src="photos/screenshot3.jpg" width="19%" />
+  <img src="photos/screenshot4.jpg" width="19%" />
+  <img src="photos/screenshot5.jpg" width="19%" />
 </div>
-
-*(Note: Replace the screenshot1.jpg - screenshot5.jpg links with the actual paths to your 5 uploaded photos)*
 
 ## 🧠 The Engine
 
@@ -67,10 +57,6 @@ The source code for GitAtlas is provided for **viewing and educational purposes 
 You are **strictly prohibited** from copying, modifying, distributing, compiling, or using any part of this source code or UI design in your own projects without my explicit, written authorization. 
 
 If you wish to fork, modify, or utilize elements of this repository, you must contact me directly to request permission first.
-
-## 🛠 Support & Feedback
-
-If you catch a bug, experience a crash, or have a feature request, open a ticket in the **[Issues](../../issues)** tab.
 
 <div align="center">
   <p>Developed and maintained by <b>TenSei</b></p>
